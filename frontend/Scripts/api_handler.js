@@ -1,4 +1,4 @@
-const apiKey = '7452b20bcd78b372c5fd56d46266531e';
+const apiKey = '';
 
 const separators = /[,\s]+/;
 
