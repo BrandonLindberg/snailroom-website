@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
+
+body {
+    background-color: #2b2b2b;
+    color: #0079e3;
+    font-family: 'Stack Sans Text';
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #bfbfbf;
+}
+
+a:visited {
+    color: #bfbfbf;
+}
+
+a:hover {
+    color: #b86014;
+}
+
+a:active {
+    color: white;
+}
